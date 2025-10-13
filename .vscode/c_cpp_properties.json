@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/include",
-                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/src",
-                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/.pio/libdeps/mkrzero/P1AM/src",
+                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/include",
+                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/src",
+                "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/.pio/libdeps/mkrzero/P1AM/src",
                 "C:/Users/durenc/.platformio/packages/framework-arduino-samd/libraries/SPI",
                 "C:/Users/durenc/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
                 "C:/Users/durenc/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
@@ -34,9 +34,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/include",
-                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/src",
-                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Lab5/.pio/libdeps/mkrzero/P1AM/src",
+                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/include",
+                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/src",
+                    "C:/Users/durenc/OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980Hw1/MEC4980_Lab5/.pio/libdeps/mkrzero/P1AM/src",
                     "C:/Users/durenc/.platformio/packages/framework-arduino-samd/libraries/SPI",
                     "C:/Users/durenc/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
                     "C:/Users/durenc/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
