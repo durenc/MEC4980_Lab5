@@ -173,7 +173,7 @@ void loop() {
     }
   break;
   case Estate:
-   // eject that shit
+   // eject
    UseEjector(targetColor);
   curState=Waiting;
   break;  
